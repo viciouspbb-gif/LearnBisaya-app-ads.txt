@@ -1,1 +1,1 @@
-# LearnBisaya-app-ads.txt
+google.com, pub-2676999942952051, DIRECT, f08c47fec0942fa0
